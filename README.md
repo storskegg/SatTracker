@@ -1,0 +1,2 @@
+# SatTracker
+SatTracker was written by Manuel [@tysonpower], and is available to download as a zip from their personal site, therefore I couldn't fork his work on Github. As mentioned on their page, it isn't perfect but it works; and I hope to help improve things over time. I do not know how Manuel wishes it to be licensed, so I'll license it Apache-2.0 to protect any of their own original work, and change the license if they request it.
