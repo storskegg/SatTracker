@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Arduino Compiled Binaries
+*.bin
+*.dfu
+*.hex
+
+# IDE Project Directories
+.idea/
+.vscode/
+
+# Stupid OS Files
+.DS_Store
